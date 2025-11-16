@@ -1,5 +1,5 @@
-# 🔐 Sistema de Login - Aula 05 Full StackMostrar Imagem
-Mostrar ImagemPágina de login simples e funcional desenvolvida como atividade prática do curso de Desenvolvimento Full Stack - Aula 05.📋 Índice
+# 🔐 Sistema de Login - Aula 05 Full Stack
+Página de login simples e funcional desenvolvida como atividade prática do curso de Desenvolvimento Full Stack - Aula 05.📋 Índice
 Sobre o Projeto
 Funcionalidades
 Tecnologias Utilizadas
